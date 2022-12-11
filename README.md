@@ -22,3 +22,9 @@ Technolojies: Firebase,Retrofit,API
 By the way this project is used for testing.
 
 
+
+
+
+
+
+https://www.youtube.com/watch?v=aHvelFgKttM
